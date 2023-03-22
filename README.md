@@ -21,4 +21,5 @@ _** mahdi Ahmadi **_
  **better not to use windoes cmd or intellij terminal cause they may not support the speciall characters
  
 # WhatchGamePlay
- ![game_play](https://github.com/mahdiahmadii/tictactoeGame/blob/main/ezgif.com-video-to-gif.gif)
+ ![game_play](https://github.com/mahdiahmadii/tictactoeGame/commit/dd08ddc5a17648fd3ab56f84ef8e56ef72c40b14)
+ 
