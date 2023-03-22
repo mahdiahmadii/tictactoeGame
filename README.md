@@ -12,7 +12,8 @@
 # author
 _** mahdi Ahmadi **_
 
-  [mahdi_email](mahdi2002ahmadi82@gmail.com)
+  [mahdi203ahmadi82@gmail.com](mahdi2002ahmadi82@gmail.com)
+  [git_hub](https://github.com/mahdiahmadii)
  
  
 # How to use 
